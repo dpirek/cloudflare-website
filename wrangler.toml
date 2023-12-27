@@ -1,0 +1,6 @@
+name = "wrangler-opus"
+main = "src/index.js"
+compatibility_date = ""
+route = ""
+[site]
+bucket = "./public"
